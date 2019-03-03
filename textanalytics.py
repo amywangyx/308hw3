@@ -41,35 +41,9 @@ with open('C:\\Users\\Amy\\Downloads\\all1314text\\corpus.text','r') as corpus:
     read_file=corpus.read()
 sentences=sent_tokenize(read_file)
 
-# text by tokens
-tokens_text = word_tokenize(read_file)
-
-#remove punctuation
-tokens_no_punct=[]
-for word in tokens_text:
-    word=re.sub(r'[^\w\s]','',word)
-    tokens_no_punct.append(word)
-        
-
-#Remove stop words
-stop_words = set(stopwords.words('english'))
-stop_words.add('')
-tokens_removed_stopwords = []
-for word in tokens_no_punct:
-    if word not in stop_words:
-        tokens_removed_stopwords.append(word)
-        
-        
 def remove_accented_chars(text):
     text = unicodedata.normalize('NFKD', text).encode('ascii', 'ignore').decode('utf-8', 'ignore')
     return text
-tokens_finished_pre=[]
-for everyword in tokens_removed_stopwords:
-    newword=remove_accented_chars(everyword)
-    tokens_finished_pre.append(newword)
-
-tokens_clean=tokens_finished_pre.copy()
-
 
 entiresentencedf = pd.DataFrame(sentences)
 df_clean = pd.DataFrame()
@@ -121,24 +95,19 @@ outperct=flattened_num+flattened_word
 output_perct=pd.DataFrame(outperct)
 output_perct.to_csv("output_perctage.csv")
 
-#--------------PERCT ENDS
-
+#--------------CEO &Company-----------
 
 ceo_pos_df=pd.read_csv('C:\\Users\\Amy\\Downloads\\all\\ceo.csv',encoding='ISO-8859-1',header=None)
 ceo_pos_df.fillna('', inplace=True)
 ceo_pos_df['fullname']=ceo_pos_df[0]+" "+ceo_pos_df[1]
 company_df=pd.read_csv('C:\\Users\\Amy\\Downloads\\all\\companies.csv',encoding='ISO-8859-1',header=None)
 
-#split training data vs test data -> in the training set, if contains pos sample,if not -> negative   
-#pos_Tag
-
-
 df_clean_copy['pos']=pos_tag_sents(df_clean_copy['sentences'].apply(word_tokenize).tolist())
 df_clean_copy.to_csv('savepos.csv')
 
 # =============IF KERNEL DIES================================================================
- df_clean_copy=pd.read_csv('C:\\Users\\Amy\\.spyder-py3\\savepos.csv')
- df_clean_copy.drop(df_clean_copy.columns[[0]],axis=1,inplace=True)
+#df_clean_copy=pd.read_csv('C:\\Users\\Amy\\.spyder-py3\\savepos.csv')
+#df_clean_copy.drop(df_clean_copy.columns[[0]],axis=1,inplace=True)
 # =============================================================================
 
 #------------------CEO------------
@@ -158,7 +127,7 @@ ceostopword=['Justice','Department','Federal Reserve','Central Bank','Communist'
 stop_wordsceo_raw.extend(commonstopword)
 stop_wordsceo_raw.extend(ceostopwordceo)
 stop_wordsceo_raw.extend(ceostopword)
-
+print(stop_wordsceo_raw)
 
 def ceo_in_or_not(sentence_string):
     if any(s in sentence_string for s in ceo_pos_list):
@@ -276,7 +245,6 @@ train_pos_feature['contain_officer']=testdf.iloc[:,2]
 len(train_pos_feature)        
 
 
-   
 #need 1-1 ratio
 
 resultlen=train_pos_feature['y'].value_counts().to_frame()
@@ -291,6 +259,7 @@ if posnum<negnum:
 
 train_shrink=pd.concat([cleaned_pos_train_sample,negative_updated_sample])
 train_shrink_copy=train_shrink.copy()
+train_shrink_copy.head(10)
 train_shrink.to_csv('train_ceo_backup.csv')
 
 
@@ -465,7 +434,7 @@ predicted_ceo=predicted_ceo.sort_index(ascending=True)
 predicted_ceo.to_csv('output_ceo.csv')
 #need drop duplicates
 
-#--------------------------Company
+#--------------------------Company---------------
 
 company_df.columns=['company names']
 company_df_sample=company_df.drop_duplicates(subset='company names', keep="last")
@@ -517,8 +486,6 @@ feature_4=get_feature_step1(df4)
 feature_4=feature_4.drop_duplicates(subset='word string',keep="last")
 feature_5=get_feature_step1(df5)
 feature_5=feature_5.drop_duplicates(subset='word string',keep="last")
-
-
 
 
 def loop_through(featurematrix,dataframe):
@@ -598,6 +565,7 @@ for index,row in whole_feature_matrix_copy.iterrows():
 
 
 whole_feature_filter_copy=filter_whole_feature.copy()
+whole_feature_filter_copy.head(10)
 
 resultlen_cop=whole_feature_filter_copy['y'].value_counts().to_frame()
 print (resultlen_cop)
@@ -701,3 +669,4 @@ predicted_comp=resultcompfinaltotal[resultcompfinaltotal[0]==True]
 predicted_comp=predicted_comp.drop_duplicates(subset='word string',keep="last")
 predicted_comp=predicted_comp.sort_index(ascending=True)
 predicted_comp.to_csv('output_company.csv')
+
