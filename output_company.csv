@@ -1,0 +1,854 @@
+,word string,0
+12,Killi Kruparani,True
+19,Electrical Equipment Manufacturing Co Ltd,True
+92,Cos Inc,True
+98,Barclays Capital Inc,True
+155,Brent North Sea,True
+186,Foxconn Technology Group,True
+249,Energy Drilling Australia,True
+273,Larry Pope,True
+364,New York State Court,True
+437,Chemical Corp,True
+472,Enbridge Inc,True
+554,Student PIRGs,True
+589,Options Group,True
+591,Ambac Assurance Corp,True
+606,Walk Score,True
+662,Global Human Resources Group,True
+926,Q2 Guide,True
+993,Dishman Company,True
+1009,Countrywide Financial Corp,True
+1009,Continental Resources Inc,True
+1016,Climate Corporation,True
+1113,Gold Inc,True
+1132,Joy Global,True
+1161,SVM Asset Management,True
+1210,Rob Citrone,True
+1248,Russia Inc,True
+1274,Mazda Motor Corp,True
+1351,Reckitt Benckiser Group,True
+1416,Xugong Group Construction Machinery Co,True
+1422,London-based Virgin Group,True
+1498,IAMGOLD Corp,True
+1592,Alan N,True
+1641,Transocean Ltd,True
+1651,Complex Systems,True
+1896,SoftBank Corp,True
+1980,Sun Loan,True
+1998,Standard Life Investments,True
+2000,ENERGA Group,True
+2006,Julius BaerGroup Ltd,True
+2027,Gunvor Group Ltd,True
+2047,Li Ning,True
+2122,Jed Horowitz,True
+2156,Manulife Asset Management,True
+2170,Steel Corp,True
+2214,Related Group,True
+2234,Shanghai Stock Exchange,True
+2236,Bipartisan Policy CenterA,True
+2305,United Parcel Service Inc,True
+2331,Trine Villemann,True
+2444,Kjeld Kirk Kristiansen,True
+2477,Green Valley Brewery,True
+2532,CGI Group,True
+2552,EverBank Wealth Management,True
+2569,Tiger Global,True
+2622,United East-India Company,True
+2659,CEO Ross McEwan,True
+2680,Port Vanino,True
+2707,Al-Jedaie Group,True
+2744,Kraft American Singles,True
+2764,Qualcomm Inc,True
+2824,World Retail Congress,True
+2962,Career Page,True
+2981,Beijing Xinwei,True
+3001,United Aircraft Corp,True
+3027,Baidu Inc,True
+3104,Navient Corp,True
+3275,Spicy McWings,True
+3423,China Mobile Ltd,True
+3424,Allstate Financial,True
+3497,Investing Group,True
+3516,Rival MasterCard Inc,True
+3540,Boston Scientific Corp,True
+3553,Maker Studios,True
+3608,ShopRunner Inc,True
+3616,Alfa Group,True
+3620,NPD Group,True
+3725,DMC CEO Keith McMullin,True
+3803,Citizens Financial Group,True
+3845,Huffines Auto Group,True
+3888,Beverage Testing Institute,True
+3951,ChinaMobile Ltd,True
+3954,Ian Maude These,True
+3968,Lazard Ltd,True
+4005,Koch Industries,True
+4025,Robert A,True
+4171,Eric Lascelles,True
+4259,Gas Corp,True
+4296,KB Home,True
+4314,Lead Director,True
+4349,PepsiCo Inc,True
+4447,While FB,True
+4572,Corrida Goyesca,True
+4597,The Richards Group,True
+4755,Complex Systems Inc,True
+4811,General Electric CoA,True
+5032,Martin Stuchtey,True
+5059,Netflix Inc,True
+5190,Kajima Corp,True
+5194,Shire Plc,True
+5346,CDICHSBC China,True
+5423,The Thai,True
+5479,Cisco Systems,True
+5482,FedEx Corp,True
+5612,News Corp,True
+5676,The Dow Chemical Company,True
+5703,HRCaTMs Corporate Equality,True
+5740,Smith Barney,True
+5825,Burda Media,True
+5913,San Francisco  I,True
+5933,Einstein Noah Restaurant Group,True
+5938,TripAdvisor Inc,True
+6034,Walt Disney Co,True
+6121,Insurance Inc,True
+6123,Whole Foods Market Inc,True
+6130,Successful CEOs,True
+6141,Class B,True
+6219,The Home DepotA,True
+6300,Xerox Company,True
+6329,LinkedIn Corp,True
+6440,Hess Corp,True
+6637,Barclays LX,True
+6695,Michael Sweeney,True
+6704,Promissory Note,True
+6772,Samsung Life,True
+6875,Pacific Group,True
+6900,Restated Credit Agreement,True
+6935,Daimler AG,True
+7011,Aurelius Capital Ltd,True
+7064,BP Capital Management,True
+7228,Phil Schiller,True
+7268,Smead Capital Management,True
+7387,EOG Resources Inc,True
+7475,Modern Family,True
+7494,Intuit Inc,True
+7534,Mercator Advisory Group,True
+7557,Kenneth Griffin,True
+7609,Ford Motor Company,True
+7689,Goldman Sachs Group Inc,True
+7862,Kering SA,True
+7872,Bloomberg LP,True
+7933,Southern Financial Group,True
+7953,Zoetis Inc,True
+7967,Corcoran Group,True
+7974,Company X,True
+7976,Spectrem Group,True
+8005,The Pokemon Company,True
+8021,JP Morgan Securities,True
+8037,Jay Gaines,True
+8049,KB Financial Group Inc,True
+8054,Ohio State University,True
+8159,KPMG LLPaTMs,True
+8162,American Towers Corp,True
+8410,Goldman Sachs Asset Management,True
+8491,Citigroup Inc,True
+8650,Nasdaq OMX Group,True
+8866,Yahoo Inc,True
+8916,Mortgage Fraud Group,True
+8938,Marathon Petroleum Corp,True
+9148,Congressman Brian HigginsA,True
+9306,Reorient Financial Markets Ltd,True
+9313,Centennial Group Latin America,True
+9332,Human Capital Management,True
+9365,Wal-Mart Stores Inc,True
+9406,Qantas Airways Ltd,True
+9542,Frank McCourt,True
+9658,Penney Co Inc,True
+9664,Xiaomi Tech,True
+9784,Jim Farley,True
+9789,CB Insights,True
+10126,China Inc Borrows,True
+10138,Euro Group,True
+10249,Adam Jonas,True
+10258,Huabei Group,True
+10282,Wealth Legacy Group,True
+10340,MetLife Inc,True
+10389,Selby Jennings,True
+10507,Yida Group,True
+10556,MHR Fund Management,True
+10664,Kraft Foods Group,True
+10665,Columbia Management,True
+10795,Sky Deutschland,True
+10869,John Boehner,True
+10888,Rossiya Insurance Open Shareholding Company,True
+10998,Q1 GAAP,True
+11041,Institutional Investor,True
+11137,Eurasia Group,True
+11148,American Air Flight,True
+11471,Robert JohnsonAtomizer,True
+11478,The Office,True
+11529,Realogy Holdings Corp,True
+11670,Ford CEO,True
+11775,Hang Seng Index,True
+11970,Public Power Corporation,True
+12049,Greg Valliere,True
+12096,Wuhan Iron,True
+12109,Decision Analyst Inc,True
+12151,Super Mario,True
+12228,World Economic Forum,True
+12253,Toll Brothers Inc,True
+12669,Belarusian Potash Company,True
+12753,MRC Global,True
+12876,Comedy Central,True
+13051,Spring Break Readinga,True
+13108,They IPO,True
+13149,Synthetic Credit Portfolio,True
+13183,Patton Boggs,True
+13295,Softbank Corp,True
+13382,Clearing Ltd,True
+13384,CRA Intrinsic,True
+13418,Sinopec Corp,True
+13462,Daily Journal Corporation,True
+13475,China Ltd,True
+13591,Lenovo Inc,True
+13792,Assigned Names,True
+13964,Sean West,True
+13970,Tenaya Acquisition Company,True
+14079,PNC Wealth Management,True
+14146,Hometrack Ltd,True
+14208,Hewlett Packard,True
+14257,Laurie Little,True
+14277,Time Inc,True
+14286,Cornerstone OnDemand Inc,True
+14287,Once Walker,True
+14323,Janus Capital Group,True
+14327,Alice Woodhouse,True
+14394,Kelly King,True
+14441,Carlyle Group,True
+14467,SAC Capital Advisors,True
+14508,Analysis This,True
+14792,The Oregonian,True
+14871,General Mills Inc,True
+14897,Lower East Side,True
+14903,Ruger Co,True
+14927,The Lights,True
+15180,Naspers Ltd,True
+15192,Hong Kong Exchanges,True
+15198,Ford Motor Co,True
+15279,Bain Capital Partners LLC,True
+15280,KKR Financial Holdings,True
+15313,NU Skin,True
+15313,Deckers Outdoor Corp,True
+15371,Jtekt Corp,True
+15531,MF Global Holdings Ltd,True
+15692,Target Corp,True
+15783,Pie Face,True
+15863,Republican Congressmen,True
+15933,Snow White,True
+15963,JPMorgan Chase Bank,True
+15982,Barclays Plc,True
+16015,Fox Sports Media Group,True
+16042,Mountain View,True
+16046,Enron Corp,True
+16265,Shinsei Bank Ltd,True
+16332,Sutter Hill Ventures,True
+16334,Matt Mazewski,True
+16355,USA Gymnastics Hall,True
+16391,Jet Plc,True
+16393,William Raveis,True
+16428,FlickrDave Lutz,True
+16435,Aviva Group,True
+16441,The Vanguard Group,True
+16520,Jefferies Finance LLC,True
+16552,Net Jets,True
+16667,Sirius XM,True
+16714,Eric Nelson,True
+16764,Katie Rushkewicz Reichart,True
+16836,Kalos Golf,True
+17003,Nikka Whisky Company,True
+17016,Affiliated Managers Group,True
+17104,SeaWorld Entertainment,True
+17118,New Albany,True
+17173,One Dell,True
+17284,BATS Global Markets,True
+17389,Grosvenor Property Group,True
+17425,Easter Holiday,True
+17467,Cabot Money Management,True
+17497,Casa Herbalife,True
+17498,GE Capital,True
+17612,HJ Heinz Company,True
+17625,While JMP Group,True
+17667,Liz Robbins,True
+17691,Holdings Inc,True
+17715,WH Group,True
+17770,CNBC Delivering Alpha,True
+17785,Peter Minuit,True
+17829,Ryan W,True
+17940,The Washington PostA,True
+18032,Kaisa Group,True
+18043,Omnicare Inc,True
+18108,HTC Corp,True
+18181,Stephen Ellis,True
+18266,Regency Wealth Management,True
+18287,SPI Group,True
+18300,Arizona Public Service Co,True
+18352,Green Mountain Coffee Roasters,True
+18578,Richard L,True
+18621,Lego Group,True
+18683,Beam Inc,True
+18685,Scranton Times-Tribune,True
+18693,Kraft Foods Group Inc,True
+18705,Insigma Technology Co Ltd,True
+18746,After U,True
+18854,Simran Capital Management,True
+18905,Bunge Ltd,True
+18957,John Thiel,True
+19094,Dwolla Inc,True
+19162,Susquehanna Bancshares Inc,True
+19165,OUR Walmart,True
+19179,Orcam Financial Group,True
+19242,Nielsen Jr,True
+19253,The Rights Plan,True
+19293,Boston University School,True
+19382,DLF Ltd,True
+19429,Eric J,True
+19471,Myojo Asset Management,True
+19519,New York Knicks,True
+19531,Retail Geeks,True
+19576,The Hammerstone Group,True
+19588,Google Incs YouTube,True
+19620,Washington PostA Co,True
+19641,New York Mellon Corp,True
+19661,Ron Surdam,True
+19743,Bob Doll,True
+19771,Elmrox Investment Group,True
+19821,Visa Inc,True
+19881,Securus Wealth Management,True
+20003,RCS Capital,True
+20048,SEC Chair White,True
+20071,Dell Inc,True
+20100,Sprint Corp,True
+20122,Series A,True
+20187,The Truth,True
+20344,Tencent Holdings Ltd,True
+20361,Monarch Group,True
+20456,Poly Real Estate Group,True
+20598,Anil Stevens,True
+20627,The Nielsen Company,True
+20667,Third Point LLC,True
+20715,Zacks Investment Research,True
+20779,Blackstone Group LP,True
+20782,Ciena Corp,True
+20927,The Nation,True
+20969,OSI Group,True
+20987,Kellogg School,True
+21161,Costco Wholesale Corp,True
+21172,Sursum Capital Management,True
+21187,Moto G,True
+21475,Ken Cowley,True
+21487,Snow Phipps Group,True
+21496,New Corp,True
+21528,Joe Tsai,True
+21592,Five Oaks Investment Corp,True
+21594,Geo Group,True
+21607,Assured Guaranty Ltd,True
+21681,Starbucks Corp,True
+21743,NCR Corp,True
+21803,Synovus Trust Company,True
+21820,Mary Kay,True
+21821,Caterpillar Inc,True
+21911,United Emblem,True
+21958,Ex-Im Bank,True
+22049,NetDragon Websoft Inc,True
+22077,Nick Colas,True
+22095,Best Employer,True
+22102,Miami River Marine Group,True
+22115,Bombardier Inc,True
+22152,ZTEA Corp,True
+22197,The Beverage Information Group,True
+22230,Fairfield Greenwich Ltd,True
+22578,Communications Co Ltd,True
+22668,ADV Form,True
+22701,Jamba Inc,True
+22716,Brilliant Technologies,True
+22859,Societe Generale Group,True
+22863,Markit PMI,True
+22870,New York Mellon,True
+22888,Hayes Advisory Group,True
+22938,Standish Asset Management,True
+22961,NDS Group,True
+23060,General Dynamics Corp,True
+23071,STA Wealth Management,True
+23113,Cole Haan,True
+23123,Future Past,True
+23247,Wii U,True
+23280,Tiburon Research Group,True
+23368,Windsor Custom,True
+23479,Barings Asset Management,True
+23498,Abnormal Returns  I,True
+23558,Hon Hai,True
+23612,Kroto Inc,True
+23624,Applied Materials Inc,True
+23842,PNC Asset Management,True
+23895,Imperial Tobacco Group,True
+23952,Humana Inc,True
+24087,Romanian-born Hartmann,True
+24112,Sinopec Group,True
+24273,Taminco Corp,True
+24333,Apple ID,True
+24338,Investec Asset Management,True
+24353,Wendi Deng,True
+24361,Sony Corp,True
+24386,CEO Lloyd Blankfein,True
+24467,The Post,True
+24480,Park Avenue,True
+24612,Lipper Inc,True
+24745,OrganiGram Holdings Inc,True
+24773,Best Buy,True
+24774,Tel Aviv,True
+24785,Asset Management Unit,True
+24831,The GEO Group,True
+25021,About Tekmira Tekmira Pharmaceuticals Corporation,True
+25083,Menomonee Falls,True
+25152,Brands Inc,True
+25184,US Funds Holmes,True
+25199,Investment Strategy Group,True
+25222,Rights Plan,True
+25312,Investor Relations,True
+25330,The U,True
+25414,The French,True
+25502,Barack Obama,True
+25559,Old GM,True
+25565,The Harvard Crimson,True
+25648,Dentsu Inc,True
+25679,OlympusA Corp,True
+25692,Boeing Co,True
+25706,Beaufort Sea,True
+25750,Peter Orszag,True
+25760,CME Group,True
+25769,NACA Founder,True
+25784,China Railway Group Ltd,True
+25811,Goldman Sachs Group IncA,True
+25860,Oracle Corpon,True
+25925,Golub Group,True
+25987,AC Investment Management,True
+26245,Meryl Streep,True
+26279,Carlyle Group LP,True
+26368,CtW Investment Group,True
+26427,Jizan Economic City,True
+26523,Seth KlarmanaTMs Baupost Group,True
+26554,Octans I,True
+26564,Wanda Group,True
+26569,UBS Securities Co Ltd,True
+26705,Safeway Inc,True
+26712,Tobias Brothers Inc,True
+26757,Laguna Beach,True
+26790,Publicis Groupe SA,True
+26817,RBC Wealth Management,True
+26974,Tabb Group,True
+27046,Monday Allergan Inc,True
+27171,Visium Asset Management,True
+27177,Marijuana Industry Group,True
+27183,Global Asset Allocation,True
+27185,CCSAN FRANCISCO,True
+27204,Enrique Pena Nieto,True
+27359,Promontory Financial Group,True
+27372,Angus Advisory Group,True
+27397,Teal Group,True
+27410,The Edge Consulting Group,True
+27443,Puma SE,True
+27520,Lorillard Inc,True
+27560,The Group,True
+27582,ChicagoNEW YORK,True
+27719,Medtronic Inc,True
+27763,Canadian Imperial Bank,True
+27807,Dodge Ram,True
+27811,PSA Peugeot Citroen SA,True
+27845,Standard Bank Group Ltd,True
+27868,Mattel Inc,True
+27906,Alibaba Group Holdings,True
+27950,National Coffee Exporters,True
+27960,Alibaba Group Holding,True
+27986,Fortress Investment Group,True
+27992,Industry Y,True
+28052,With Allen,True
+28191,Modern Bride,True
+28222,Convertro Inc,True
+28229,Peter J Solomon Company,True
+28271,The Airbus Group,True
+28457,Societe Generale SA,True
+28464,Vanguard Group,True
+28510,RadioShack Corp,True
+28530,Scotland Group,True
+28693,Dongfeng Motor Group,True
+28754,Phalanx Capital Management,True
+28789,Central Park Group LLC,True
+28877,Stores Inc,True
+28898,Wasinger Law Group,True
+28902,Dean Foods,True
+28971,Tubemogul Inc,True
+28998,MC Aviation Partners,True
+29048,JP Morgans,True
+29050,Norfolk Southern Corp,True
+29061,The Parthenon Group,True
+29131,Steve West,True
+29164,Morgan Asset Management,True
+29180,Astellas Pharma Inc,True
+29361,Economic Daily News,True
+29548,Faurecia SA,True
+29622,Risk Management,True
+29675,Truscan Steel Company,True
+29719,Delta Strategy Group,True
+29762,Dixy Group,True
+29777,The Coca-Cola Company,True
+29804,Japan Airlines Co Ltd,True
+29805,New England Media Group,True
+29852,Sir Terence Conran,True
+29939,Auburn Hills,True
+29967,Targets The Company,True
+29977,Tesla Motors Inc,True
+30040,Altimeter Group,True
+30051,Company Updates Click,True
+30355,Penns Energy Company,True
+30368,TSG Consumer Partners,True
+30402,Drinks Industry Group,True
+30445,Wealth Advisory Group,True
+30536,Societe Generale SAand,True
+30764,The Shopping Center Group,True
+30782,Three Ring Road,True
+30869,Sorinet Group,True
+30935,DC Bitcoin Users Group,True
+30945,Minsheng Banking Corp,True
+30954,Frontier Group,True
+30978,Jiayuan Group,True
+31056,Pegatron Corp,True
+31275,Samsung Galaxy Nexus,True
+31307,KCG Holdings Inc,True
+31344,Google Now,True
+31450,Staples Inc,True
+31516,Harold P,True
+31547,BlackBerry Ltd,True
+31636,McCarthyA TAtraultA LLP,True
+31733,Jonathan Wilmot,True
+31833,Cypress Group,True
+31897,Sabre Corp,True
+31914,Wet Seal,True
+32045,Dow Chemical Co,True
+32088,BCA Research Inc,True
+32113,Samsung Fire,True
+32181,The Real Deal,True
+32249,Mega Ltd,True
+32363,Potomac Research Group,True
+32486,RBS Group,True
+32645,Samsung Electronics Co,True
+32669,CME Clearing,True
+32720,South Sea Bubble,True
+32786,Gilead Sciences Inc,True
+33011,Iraqi Kurdistan,True
+33105,Ann Inc,True
+33177,The Future,True
+33412,South Sea Stock,True
+33471,The Philadelphia Inquirer,True
+33471,CBRE Group,True
+33626,Chipotle Mexican Grill,True
+33639,Rakuten Inc,True
+33739,Sofitel Luxury Hotels,True
+33951,Sears Canada Inc,True
+34078,The Group Think,True
+34091,CNOOC Group,True
+34158,CBS Corp,True
+34237,Sam Colt,True
+34267,HCP Parties,True
+34441,Credit Suisse Group AG,True
+34494,Financial Management Group,True
+34495,Janus Capital Group Inc,True
+34507,Dorsey Wright Money Management,True
+34522,Marwan Lahoud,True
+34598,Stryker Corp,True
+34704,Huangpu River,True
+34783,Twenty-First Century Fox,True
+34836,Comercial SA,True
+34923,MF Global Inc,True
+34930,V2 Cigs,True
+34980,Heinz Co,True
+35051,New Netherland,True
+35154,Virgin Money,True
+35187,Ann Marsh,True
+35313,Nokia Oyj,True
+35314,Wistron Corp,True
+35339,Ally Financial Inc,True
+35414,Universal Music Group,True
+35572,CEO Sally Smith,True
+35614,ConvergEx Group,True
+35756,Gabriel Espindola Martinez,True
+35774,San Rafael,True
+35802,China Revaluation U,True
+35880,Cargill Inc,True
+36197,Morningstar Inc,True
+36200,Pink Floyd,True
+36204,Prudential Financial Inc,True
+36234,Vanke Group,True
+36251,Berkshire Hathaway Inc,True
+36408,America Corp,True
+36425,Employee Retirement Income Security Act,True
+36486,Twitter Inc,True
+36494,Prosensa Holding NV,True
+36512,JPMorgan Asset Management,True
+36638,Unilever NV,True
+36661,Critical Mass,True
+36677,US Wealth Report,True
+36699,National Iranian Tanker Co,True
+36747,Goldman Sachs Group,True
+36804,North AmericaA,True
+36811,American Express Co,True
+36926,Tableau Software Inc,True
+37046,Harry Winston,True
+37053,SC Management,True
+37103,Stanford Financial Group,True
+37104,Brian Kelley,True
+37113,Virgin Australia Group,True
+37114,Service Corp,True
+37129,Standard General LP,True
+37211,Walt Disney Company,True
+37303,Potash Corp,True
+37399,Abaxis Inc,True
+37404,Gap Inc,True
+37422,General Electric Co,True
+37431,ING Investment Management,True
+37636,Vontobel Asset Management,True
+37660,Hony Capital,True
+37664,Judicial Watch Inc,True
+37787,Soros Fund Management,True
+37821,Charles Schwab Corp,True
+37894,UBS Wealth Management,True
+37943,Tuttle Tactical Management,True
+38026,John Paul Getty,True
+38056,Aite Group,True
+38105,Nvidia Corp,True
+38160,El Paso Pipeline Partners,True
+38337,Aviall Services Inc,True
+38491,Bespoke Investment Group,True
+38525,Kevin Brown,True
+38574,Intel Corp,True
+38616,Susquehanna Growth Equity,True
+38633,Facebook Inc,True
+38633,Coca-Cola Co,True
+38661,Espirito Santo Group,True
+38710,JCPenney Co Inc,True
+38714,Mobile Device Management,True
+38736,Royal Bank,True
+38740,American Revival Fund,True
+38763,Kelley CEO,True
+38811,Fossil Inc,True
+38915,Hayman Capital Management,True
+38918,China Everbright Bank Co,True
+38987,Syncora Guarantee Inc,True
+38995,Chevrolet Cruze,True
+39015,NewLink Genetics Corp,True
+39071,IBM Corp,True
+39093,MSCI Inc,True
+39098,URS Corporation,True
+39105,Heres Tim Cooks,True
+39145,Moore Capital Management,True
+39215,Louis Dreyfus Corp,True
+39222,Chalkstream Capital Group,True
+39286,CLS Bank,True
+39301,Nick Graham,True
+39400,Co Inc,True
+39401,Happiness Dividend Blog,True
+39491,CTW Investment Group,True
+39508,Fort Pitt Capital Group,True
+39593,Rowe Price,True
+39597,Trade Flow Insights,True
+39643,The Goldman Sachs Group,True
+39666,Vodafone Group,True
+39798,Green Friday  Be,True
+39812,Enforcement Act,True
+39850,Jefferies Group,True
+39858,Chrysler Group,True
+40050,Sun Edison,True
+40226,SAN FRANCISCO  Wells Fargo,True
+40423,Jones Lang LaSalle Inc,True
+40476,Skylar Capital,True
+40499,Mari Saito,True
+40499,Liberty Broadband Group,True
+40514,The Geo Group,True
+40519,Flash Boys,True
+40554,Sears Holdings Corp,True
+40602,Zalando SE,True
+40636,Pfizer Inc,True
+40725,Tokyo Electric Power Co,True
+40744,Longbow Asset Management,True
+40792,Alpha Asset Management,True
+41127,Schramm Inc,True
+41307,Jinan Intermediate People,True
+41307,Affinity Equity Partners,True
+41354,Kate Allen,True
+41413,Google Inc,True
+41448,Vogel Capital Management,True
+41531,The ArcView Group,True
+41589,HSBC Group,True
+41635,IBM Corporation,True
+41818,Company A,True
+41821,Senior Partner,True
+41917,The Priceline Group,True
+42082,An Edward Jones,True
+42264,Arizona Public Service Company,True
+42272,Altria Group Inc,True
+42572,Tough Guys,True
+42714,United Nations Plaza,True
+42887,China Grain Reserves Corp,True
+42922,Harbinger Group,True
+43001,BMT Asset Management,True
+43099,Wealth Management Products,True
+43247,Group LP,True
+43254,Chesapeake Energy Corp,True
+43686,CDW Corporation,True
+43750,Battery Venture Capital,True
+43755,Keurig ColdTM,True
+43954,Atria Publishing Group,True
+43980,Secret Small Cap Stock,True
+44324,Rising Sun,True
+44443,CVS Caremark Corp,True
+44541,Simon Property Group,True
+44543,Water Street,True
+44716,LinkedIn Group,True
+44825,Scotland Group PLC,True
+44988,Sogou Inc,True
+45284,Aberdeen Asset Management,True
+45339,Baupost Group,True
+45356,Roberto Henriques European,True
+45581,Digital Luxury Group,True
+45659,State Property Fund,True
+45669,Apollo Global Management,True
+45674,BlackRock Inc,True
+45681,Cisco Systems Inc,True
+45690,COO Barbarian Group,True
+46049,Rick White,True
+46202,Brian Kinsella,True
+46214,Hertz Global Holdings Inc,True
+46279,Group Menatep,True
+46359,United Health Group,True
+46731,Alibaba Group,True
+46858,Martin Luther King Jr,True
+47140,Emperor Group,True
+47524,Abengoa SA,True
+47546,Family Company,True
+47676,Murmansk Shipping Company,True
+47939,The Walt Disney Company,True
+47953,Agco Corp,True
+48827,Ben Bernanke,True
+48850,European Parliamentary,True
+49103,Neiman Marcus Group Inc,True
+49142,Allianz SE,True
+49151,York St,True
+49286,Zynga Inc,True
+49296,BNY Mellon,True
+49313,Toyota Motor Corp,True
+49340,Facebook Times,True
+49377,Innovation Network Corp,True
+49468,HP Inc,True
+49552,Bayview Asset Management,True
+49778,Douglas Haynes,True
+50032,Royal Alliance,True
+50101,Savills The,True
+50559,Dynegy Inc,True
+50689,Ruchir Sharma,True
+50716,Washington Mutual Inc,True
+50764,Alexander Solzhenitsyn,True
+51015,Zero Bound,True
+51033,The Winston Group,True
+51065,Apple Inc,True
+51162,Dalian Wanda Group,True
+51482,Marcum LLP,True
+51735,Entertainment Group,True
+52086,Tom Enders,True
+52145,Dana Point,True
+52224,Robert Martin,True
+52400,Salzburger Nachrichten,True
+52458,China Film Group,True
+52594,Family Dollar Stores,True
+52789,The ADS Group,True
+53191,State Street Corp,True
+53539,The Ux Consulting Company,True
+53545,Plexus Asset Management,True
+53594,Trina Solar Ltd,True
+53651,Cadence Bank,True
+53661,Group CEO,True
+53687,Haima Automobile Group,True
+53839,Samsung C,True
+53966,HB Group,True
+53993,NSK Ltd,True
+54119,Texas Pacific Group,True
+54215,Mid-Cap Growth Equities,True
+54281,Sina Corp,True
+54300,Assya Asset Management,True
+54360,Chris Kotowski,True
+54465,Every Chrysler Group,True
+54475,Newmont Mining Corp,True
+54673,Shanghai Media Group,True
+55019,North Dakota State,True
+55048,Nike Inc,True
+55056,GT Advanced Technologies Inc,True
+55100,Bacon Portabella Melt,True
+55193,Northern Star,True
+55412,Mongolian Mining Corp,True
+55674,CIT Group,True
+55874,Wells Capital Management,True
+55928,Starbucks Coffee Company,True
+56238,David E,True
+56413,Kerry Rice,True
+56603,Helane Becker,True
+56678,Samsung Group,True
+56877,IPCO International Ltd,True
+56918,Business Call,True
+57011,Family Dollar Stores Inc,True
+57019,Rio Tinto Group,True
+57175,Loomis Sayles,True
+57552,Arthur Martinez,True
+57684,Modera Wealth Management,True
+57777,Buffalo Wild Wings Inc,True
+58204,NUFCOR SA,True
+58233,Dollar Tree Inc,True
+58499,VEBA Trust,True
+58547,Amgen Inc,True
+58570,Energy Minister Martins,True
+58609,Van Wagner Communications LLC,True
+59011,Star TV,True
+59192,The Company J,True
+59571,Chevron Corp,True
+59732,EBay Inc,True
+59768,The USB Promotor Group,True
+59786,Lloyds Banking Group,True
+59881,Burger King Worldwide Inc,True
+59928,Garden City,True
+59939,InterMune Inc,True
+60096,Alibaba Group Holding Ltd,True
+60427,Firebird Fund Management,True
+60660,Graham Fisher,True
+60707,China National Offshore Oil Corporation,True
+60749,South Seas,True
+60962,QEP Resources,True
+61418,Penney Company,True
+61797,Oculus VR,True
+61824,Private Advisor Group,True
+61887,Prospect Capital Corp,True
+62225,China Minmetals Corp,True
+62387,Allianz Group,True
+62459,Pohjola Asset Management,True
+62559,The Tokmakjian Group,True
+62647,Virgin Group,True
+62748,The Inc,True
+62871,The Trustee,True
+62914,The Board,True
+63120,Professor Laurence Capron,True
+63276,Current Population Survey,True
+63592,The Company,True
+63687,Taj Mahal,True
+63732,Upper East Side,True
+64201,Rival Kohl,True
+64402,McCarthy Tetrault LLP,True
+64439,Dennis O,True
+64467,Boston Consulting Group,True
+64552,One Equity Partners,True
